@@ -1,5 +1,5 @@
 # Intruduce
-오상원의 포트폴리오 용 글입니다
+산온의 포트폴리오 용 글입니다
 
 
 ## Skill
@@ -25,8 +25,8 @@
 - `C#` ,`Unity` : 황제웅 주도하의 "SGM(Sound Generated Music)" 프로젝트 참여
 
 ### 2021 
--  `C#`, `Unity` : 상반기, 총알탄 사나이 개발 및 배포.
--  `C++`: TCP 통신  게임 스페이스 나이트 개발.  
+-  `C#`, `Unity` : 상반기, 총알탄 사나이 기획, 감독, 개발 및 배포.
+-  `C++`: TCP 통신  게임 스페이스 나이트 개발.
 -  `C++`, `OpenGL` : 셰이더를 통한 이미지 제작 및 애니메이션 개발 프로젝트 진행. 
 -  `C#`, `Unity` : 11월 VR 인터렉티브 게임. VR 감별사 게임 개발. 2021_XR_Team_Project
 
@@ -38,4 +38,10 @@
 ## Paused or Retired
 -  `C#`, `Unity` : 멀티 플랫폼 게임 해귀 프로젝트 프로토 타입제작 후 보류중 
 -  `C#` ,`Unity` : 터치로 공수 전환 하라! 위성 슈터 게임 개발 중단.
+
+## Completed
+- 바이 바이러스 [플레이스토어](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [드라이브 를 통한 다운](https://sanon531.itch.io/byvirus-save) 
+- 총알 탄 사나이 [플레이스토어](https://play.google.com/store/apps/details?id=com.Cien.BTS), [앱스토어](https://apps.apple.com/us/app/bullet-teleport-shooter/id1585531386#?),[PC 버전](https://sanon531.itch.io/bullet-teleport-shooterbts)
+- 
+
 

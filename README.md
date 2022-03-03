@@ -32,7 +32,7 @@
 
 ### OnGoing
 -  `Unity` : 이펙트 제작으로 승천 프로젝트 개발 중.
--  `python` : 2021 NCF - 인공지능 경진대회 중.
+-  `python` : 2021 NCF - 인공지능 경진대회 2위 수상.
 -  `C#`, `Unity`, 2022년 3DPFS 개발중.
 
 ## Paused or Retired

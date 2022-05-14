@@ -33,13 +33,14 @@
 ### OnGoing
 -  `Unity` : 이펙트 제작으로 승천 프로젝트 개발 중.
 -  `python` : 2021 NCF - 인공지능 경진대회 2위 수상.
--  `C#`, `Unity`, 2022년 3DPFS 개발중.
+
 
 ## Paused or Retired
 -  `C#`, `Unity` : 멀티 플랫폼 게임 해귀 프로젝트 프로토 타입제작 후 보류중 
 -  `C#`, `Unity`, 2021 ~ 퍼즐 액션 게임 토로니아 1인 개발 일시정지.
 -  `C#` ,`Unity` : 터치로 공수 전환 하라! 위성 슈터 게임 개발 중단.
-
+-  `C#`, `Unity`, 2022년 3DPFS 개발중단.
+-  
 ## Completed
 - 바이 바이러스 [플레이스토어](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [드라이브 를 통한 다운](https://sanon531.itch.io/byvirus-save) 
 - 총알 탄 사나이 [플레이스토어](https://play.google.com/store/apps/details?id=com.Cien.BTS), [앱스토어](https://apps.apple.com/us/app/bullet-teleport-shooter/id1585531386#?),[PC 버전](https://sanon531.itch.io/bullet-teleport-shooterbts)

@@ -25,7 +25,7 @@ The development history
 -  `C#`, `Unity` : "Bullet Teleport Shooter" planning, oversight, development, and deployment.
 -  `C++`: Developed of the TCP communication game Space Knight.
 -  `C++`, `OpenGL` :Worked on image creation and animation development projects with shaders.
--  `C#`, `Unity` : 11월 VR 인터렉티브 게임. VR 감별사 게임 개발. 2021_XR_Team_Project
+-  `C#`, `Unity` :  Development of a VR Interactive "VR Taster"game. 2021_XR_Team_Project
 
 ### 2022 
 -  `python` : Won 2nd place in the 2021 NCF - Artificial Intelligence Competition.
@@ -37,7 +37,7 @@ The development history
 -  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
 
 ### OnGoing
--  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project\
+-  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
 
 ## Completed
 - By Virus [Playstore](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [Goggle Drive](https://sanon531.itch.io/byvirus-save) 

@@ -1,46 +1,45 @@
 # Intruduce
-오상원의 개발 기록 들입니다.
+The development history 
 
 ## Skill
 
-- C# (주력)
+- C# (main)
 - python
 - c++
-- 스파인, 라이브 2D 애니메이터
 
 ## Project
 
 ### 2017
-- `Blueprint`, `Unreal Engine`  2017 라인 게임 공모전 전반기 런네상스 프로젝트 
-- `C#`, `Unity`  2017 라인 게임 공모전 후반기 바이 바이러스
+- `Blueprint`, `Unreal Engine`  "Runnaissance Project" first half of 2017 Line Games Competition
+- `C#`, `Unity`  "Virus" in the second half of the 2017 LINE Game Competition
 ### 2018
-- `C#`,`Unity` 2018 수인 소녀 이후 군대 입대 
+- `C#`,`Unity` 2018 "Beast Girl Project"
 
 ### 2019
-- `C#`, `Unity` ,군대 재대중 넥슨 게임잼 참여
-- `C#` ,`Unity` 씨엔 게임잼 참여 "핫 식스 게임" 개발
+- `C#` ,`Unity`  Developed the "Hot Six Game" at the CEN Game Jam
 
 ### 2020 
-- `C#` ,`Unity` : 황제웅 주도하의 "SGM(Sound Generated Music)" 프로젝트 참여
+- `C#` ,`Unity` : Participated in the "Sound Generated Music (SGM)" project led by Yukinya
 
 ### 2021 
--  `C#`, `Unity` : 상반기, 총알탄 사나이 기획, 감독, 개발 및 배포.
--  `C++`: TCP 통신 게임 스페이스 나이트 개발.
--  `C++`, `OpenGL` : 셰이더를 통한 이미지 제작 및 애니메이션 개발 프로젝트 진행. 
+-  `C#`, `Unity` : "Bullet Teleport Shooter" planning, oversight, development, and deployment.
+-  `C++`: Developed of the TCP communication game Space Knight.
+-  `C++`, `OpenGL` :Worked on image creation and animation development projects with shaders.
 -  `C#`, `Unity` : 11월 VR 인터렉티브 게임. VR 감별사 게임 개발. 2021_XR_Team_Project
 
 ### 2022 
--  `python` : 2021 NCF - 인공지능 경진대회 2위 수상.
--  `Unity` : 승천 프로젝트 이펙트 개발 담당 .
+-  `python` : Won 2nd place in the 2021 NCF - Artificial Intelligence Competition.
+-  `Unity` : Developed effects for Game "the Ascension Project."
+
+### 2023
+-  `C#`, `Unity` : Completed development as the main programmer, team leader, and pattern drawer in "Project PG"
+-  `C#`, `Unity` : Join the Metaverse Academy
+-  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
 
 ### OnGoing
--  `C#`,`Unity` : "프로젝트 PG"에서 패턴 그리기(記) 메인 프로그래머, 팀장을 맡아 개발 중
-
-
-## Paused or Retired
--  `C#`, `Unity`, 2021 ~ 퍼즐 액션 게임 토로니아 1인 개발 보류.
+-  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project\
 
 ## Completed
-- 바이 바이러스 [플레이스토어](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [드라이브 를 통한 다운](https://sanon531.itch.io/byvirus-save) 
-- 총알 탄 사나이 [플레이스토어](https://play.google.com/store/apps/details?id=com.Cien.BTS), [앱스토어](https://apps.apple.com/us/app/bullet-teleport-shooter/id1585531386#?),[PC 버전](https://sanon531.itch.io/bullet-teleport-shooterbts)
+- By Virus [Playstore](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [Goggle Drive](https://sanon531.itch.io/byvirus-save) 
+- Bullet Teleport Shooter [Playstore](https://play.google.com/store/apps/details?id=com.Cien.BTS), [Appstore](https://apps.apple.com/us/app/bullet-teleport-shooter/id1585531386#?),[Itch.Io](https://sanon531.itch.io/bullet-teleport-shooterbts)
 

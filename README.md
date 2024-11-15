@@ -34,7 +34,7 @@ The development history
 ### 2023
 -  `C#`, `Unity` : Completed development as the main programmer, team leader, and pattern drawer in "Project PG"
 -  `C#`, `Unity` : Join the Metaverse Academy
--  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
+-  `C#`, `Unity` : Client Programming on Project
 
 ### OnGoing
 -  `C#`, `Unity` : Client Programming on Project

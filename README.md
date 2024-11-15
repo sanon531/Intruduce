@@ -37,7 +37,7 @@ The development history
 -  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
 
 ### OnGoing
--  `C#`, `Unity` : Client Programming on "Dungeon Settler" Project
+-  `C#`, `Unity` : Client Programming on Project
 
 ## Completed
 - By Virus [Playstore](https://play.google.com/store/apps/details?id=com.CIEN.ByVirus), [Goggle Drive](https://sanon531.itch.io/byvirus-save) 
